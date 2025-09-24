@@ -1,3 +1,2 @@
-# 自我介绍
-## FZU CSer
-努力完成学业中……
+# Hi！I am yesno
+FZU CSer 丨 Keep Learning
