@@ -1,2 +1,3 @@
-# Hi！I am yesno —— Yes or no, this is a question.  
+# Hi！I am yesno 
+**Yes or no: that is the question.**  
 FZU CSer 丨 Keep learning
